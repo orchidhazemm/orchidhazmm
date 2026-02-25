@@ -51,18 +51,10 @@ I also have hands-on experience in **Software Testing**, which helps me design r
 - Debugging & Bug Tracking  
 
 ---
-![Profile Focus](https://img.shields.io/badge/Focus-Artificial%20Intelligence-blueviolet)
-![Data Science](https://img.shields.io/badge/Specialization-Data%20Science-success)
+![Profile Focus](https://img.shields.io/badge/Focus-Software%20Engineering-blueviolet)
+![Data Science](https://img.shields.io/badge/Specialization-Artificial%20Intelligence-success)
 
-## 🧠 AI Developer Insights
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="45%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical" width="90%" />
-
-</div>
 
 ---
 
