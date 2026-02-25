@@ -1,7 +1,4 @@
 <div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/orchidhazemm" alt="Hello Coders" width="60%"/> <br>
-
-</div>
 
 # Hi, I'm Orchid 👋  
 ### Software Developer | AI & Data Science Graduate | Testing Enthusiast
