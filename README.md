@@ -74,8 +74,8 @@ I also have hands-on experience in **Software Testing**, which helps me design r
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/orchid-hazem-a2a147269/
+- Email: orchid.hazem20@gmail.com
 
 ---
 
