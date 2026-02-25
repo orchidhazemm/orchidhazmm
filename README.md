@@ -3,7 +3,7 @@
 # Hi, I'm Orchid 👋  
 ### Software Developer | AI & Data Science Graduate | Testing Enthusiast
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50%" />
 
 </div>
 
@@ -51,13 +51,16 @@ I also have hands-on experience in **Software Testing**, which helps me design r
 - Debugging & Bug Tracking  
 
 ---
+![Profile Focus](https://img.shields.io/badge/Focus-Artificial%20Intelligence-blueviolet)
+![Data Science](https://img.shields.io/badge/Specialization-Data%20Science-success)
 
-## 📈 GitHub Stats
+## 🧠 AI Developer Insights
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="45%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="45%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical" width="90%" />
 
 </div>
 
